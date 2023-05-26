@@ -1,0 +1,64 @@
+Valuable Courses and Websites that will help you in your Embedded Software Journey:
+
+1. Electronics Fundamentals
+
+Digital and Analog Electronic courses:
+
+https://lnkd.in/enmbxaiK
+
+Basic Electronics: https://shorturl.at/dlMQ5
+
+Digital Signal Processing: https://shorturl.at/etNZ9
+
+2. Computer Architecture
+
+Course by Princeton Uni: https://shorturl.at/fntDN
+
+Building Embedded Sys: https://shorturl.at/inoGS
+
+3. C Programming
+
+Basics:  https://shorturl.at/bdl38
+
+C Coding Standard: https://shorturl.at/aguO0
+
+4. RTOS
+
+Basics: https://shorturl.at/nwFGN
+
+5. Microcontroller
+
+Basics: https://shorturl.at/enEOV
+
+6. Git version control
+
+https://lnkd.in/eDphv4pX
+
+7. CMake
+
+Fundamentals: https://shorturl.at/hiBMO
+
+8. Embedded Systems ( Safety, Security )
+
+Professor Phil Koopman ( CMU ):
+
+https://shorturl.at/kxG14
+
+9. Linux :
+
+Fundamentals: https://shorturl.at/muINY
+
+Embedded Linux Wiki: https://lnkd.in/eyAzbQXt
+
+10. Embedded Systems podcast:
+
+https://embedded.fm/
+
+11. Modern Embedded Systems
+
+Miro Samek videos: https://shorturl.at/pzEWZ
+
+12. Project Ideas ( Bonus ) :
+
+https://blog.adafruit.com/
+https://lnkd.in/eeYRWYWV
