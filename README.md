@@ -1,4 +1,4 @@
-# Linux-kernel Open Source
+# Embedded Systems Open Source
 Documents and study material
 
 This Repository contains overall documents and study materials (Open Source) for following topics
@@ -7,3 +7,8 @@ This Repository contains overall documents and study materials (Open Source) for
 - Linux Command Understanding
 - Linux Shell Scripting
 - Hardware Debugging Methods
+- Real Time Operating Systems (RTOS)
+- C Programming concepts
+- Embedded System Hardware concepts
+- Embedded System Notes
+- Networking Concepts
