@@ -1,0 +1,44 @@
+Starting Linux application and kernel development, RISC-V, Quantum computing etc.
+
+Here are some of the free courses, online, self-paced from Linux foundation training program to get started with Linux development and Open source technologies
+
+o  Introduction to Linux :
+https://lnkd.in/e3WMVde
+
+o  Open-source software development: Linux for developers: 
+https://lnkd.in/dk6k47Tt
+
+o  Linux tools for software development
+https://lnkd.in/dANkaY6B
+
+o  Software engineering Basics for Embedded systems
+https://lnkd.in/dPjztAT2
+
+o  Secure software development
+  https://lnkd.in/dga4Gq8z
+
+o  Developing Secure software
+  https://lnkd.in/envUhaCt
+
+o  Open-source licensing Basics for software developers
+  https://lnkd.in/d_2FJb5C
+
+o  A beginner’s guide to Linux kernel developemment
+  https://lnkd.in/f5Xw_pT
+ 
+o  Introduction to RISC-v
+https://lnkd.in/dSvABiiE
+ 
+o  Building a RISC-V CPU Core
+ https://lnkd.in/d2EDVygf
+ 
+o  Fundamentals of Quantum Computing
+  https://lnkd.in/ehKBFann
+
+o  Data and AI fundamentals
+  https://lnkd.in/dZipzsyN
+o  Ethics in AI and Data science
+https://lnkd.in/dHgF5nqc
+ 
+o  Introduction to cloud infrastructure technologies
+https://lnkd.in/dA4-Nv3x
