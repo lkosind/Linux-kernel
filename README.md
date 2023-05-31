@@ -12,3 +12,4 @@ This Repository contains overall documents and study materials (Open Source) for
 - Embedded System Hardware concepts
 - Embedded System Notes
 - Networking Concepts
+- Certification perspective documents
