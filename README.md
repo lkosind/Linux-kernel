@@ -13,3 +13,5 @@ This Repository contains overall documents and study materials (Open Source) for
 - Embedded System Notes
 - Networking Concepts
 - Certification perspective documents
+- Boot sequence
+- ESP32 (Espressif Systems) doc
