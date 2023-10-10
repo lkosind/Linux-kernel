@@ -1,0 +1,69 @@
+𝐏𝐫𝐨𝐭𝐨𝐜𝐨𝐥𝐬 𝐟𝐨𝐫 𝐄𝐦𝐛𝐞𝐝𝐝𝐞𝐝 𝐒𝐲𝐬𝐭𝐞𝐦𝐬
+
+Here are some resources for communication protocols you can get started with and help your journey in embedded systems.
+
+First Link is website/text based and second link is YouTube.
+
+UART (Universal Asynchronous Receiver-Transmitter):
+https://lnkd.in/gJ9uHeFk
+https://lnkd.in/gycuv3kN,
+https://lnkd.in/gXMU8rEh
+
+
+SPI (Serial Peripheral Interface)
+https://lnkd.in/gWwX8wee
+https://lnkd.in/gH8CcdMS
+https://lnkd.in/gydNFNvk
+
+I2C (Inter-Integrated Circuit)
+https://lnkd.in/gGphf_ht
+https://lnkd.in/g8M-jRpD
+
+CAN (Controller Area Network)
+https://lnkd.in/gmKy6C4E
+https://lnkd.in/ghargbqA
+https://lnkd.in/g4s84exU
+
+USB (Universal Serial Bus)
+https://lnkd.in/gzuHEja8
+https://lnkd.in/gCUgfZwu
+https://lnkd.in/grKK_CPU
+
+Ethernet
+https://lnkd.in/gMYHYFmB
+https://lnkd.in/gnhnQj_S
+
+RS-232
+https://lnkd.in/gzqfw7dY
+https://lnkd.in/gmduHaRa
+
+
+RS-485
+https://lnkd.in/gyrbwSQ7
+https://lnkd.in/gwqvEG34
+
+PWM (Pulse Width Modulation)
+https://lnkd.in/ggMyscNm
+https://lnkd.in/gAcSAUX4
+
+Modbus
+https://lnkd.in/gATm48Cg
+https://lnkd.in/gUcJHGvN
+
+LIN
+https://lnkd.in/gCQpGKRm
+
+FlexRay:
+https://lnkd.in/gHt_c5Xk
+
+One-Wire
+https://lnkd.in/gwXHwvp3
+https://lnkd.in/g8tMRauV
+
+Bluetooth & BLE (Bluetooth Low Energy)
+https://lnkd.in/g_-yCKQ5
+https://lnkd.in/grvm7nYZ
+
+Zigbee & Z-Wave
+https://lnkd.in/gWshfv5h
+https://lnkd.in/gZC-w56q
