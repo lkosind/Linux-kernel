@@ -8,7 +8,7 @@ This repository contains categorized notes, PDFs, and guides for Embedded System
 
 - [Documents](#documents)
   - [Architecture](https://github.com/lkosind/Linux-kernel/tree/main/Documents/Architecture)
-  - [Boot Sequence](#boot-sequence)
+  - [Boot Sequence](https://github.com/lkosind/Linux-kernel/tree/main/Documents/Boot%20Sequence)
   - [Bootloader](#bootloader)
   - [CPP](#cpp)
   - [C Programming](#c-programming)
