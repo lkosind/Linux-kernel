@@ -24,7 +24,7 @@ This repository contains categorized notes, PDFs, and guides for Embedded System
   - [Linux Kernel](https://github.com/lkosind/Linux-kernel/tree/main/Documents/Linux%20Kernel)
   - [Networking Concepts](https://github.com/lkosind/Linux-kernel/tree/main/Documents/Networking%20Concepts)
   - [Operating System](https://github.com/lkosind/Linux-kernel/tree/main/Documents/Operating%20System)
-  - [RTOS](#rtos)(https://github.com/lkosind/Linux-kernel/tree/main/Documents/RTOS)
+  - [RTOS](https://github.com/lkosind/Linux-kernel/tree/main/Documents/RTOS)
   - [Shell Scripting](https://github.com/lkosind/Linux-kernel/tree/main/Documents/Shell%20Scripting)
   - [Socket Programming](https://github.com/lkosind/Linux-kernel/tree/main/Documents/Socket%20Programming)
   - [Yocto](https://github.com/lkosind/Linux-kernel/tree/main/Documents/Yocto)
