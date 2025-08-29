@@ -16,6 +16,7 @@ This repository contains categorized notes, PDFs, and guides for Embedded System
   - [Debug](https://github.com/lkosind/Linux-kernel/tree/main/Documents/Debug)
   - [ESP32](https://github.com/lkosind/Linux-kernel/tree/main/Documents/ESP32)
   - [Embedded Notes](https://github.com/lkosind/Linux-kernel/tree/main/Documents/Embedded%20Notes)
+  - [Embedded_Siksha_Docs](https://github.com/lkosind/Linux-kernel/tree/main/Documents/Embedded_Siksha_Docs)
   - [Hardware](https://github.com/lkosind/Linux-kernel/tree/main/Documents/Hardware)
   - [IoT](https://github.com/lkosind/Linux-kernel/tree/main/Documents/IoT)
   - [Linux Drivers](https://github.com/lkosind/Linux-kernel/tree/main/Documents/Linux%20Drivers)
